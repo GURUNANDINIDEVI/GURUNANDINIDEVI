@@ -3,16 +3,10 @@
 <p align="center">
   🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)<br>
   📊 CGPA: 9.1 / 10<br>
-  💡 Passionate about <b>VLSI Design, Digital Systems, and Protocol Verification</b>
-</p>
-
----
-
-## 🚀 About Me  
-<p align="center">
+  💡 Passionate about <b>VLSI Design, Digital Systems, and Protocol Verification</b><br>
   🔭 Exploring <b>VLSI design, SoC architecture, and verification methodologies</b><br>
   🌱 Currently learning <b>SystemVerilog, AXI, APB, and PCIe protocols</b><br>
-  🛠️ Hands-on with <b>hardware description languages, digital circuits, and EDA tools</b><br>
+  🛠️ Hands-on with <b>HDLs, digital circuits, and EDA tools</b><br>
   🤝 Open to <b>internships, collaborations, and research opportunities</b>
 </p>
 
@@ -21,26 +15,26 @@
 ## 🛠️ Skills  
 
 **Programming Languages**  
-- C, Python, JavaScript  
+- C, Python 
 
 **Hardware Description Languages**  
 - Verilog, SystemVerilog  
 
 **Protocol Knowledge**  
-- UART, SPI, I2C, APB, AXI *(Exploring PCIe)*  
+- APB, UART, I2C, SPI, APB, AXI *(Exploring PCIe)*  
 
 **Tools & Platforms**  
-- MATLAB, PSpice, Proteus  
-- Xilinx Vivado  
-- Cadence (Xcelium, Genus)  
-- Git & GitHub  
+-  MATLAB
+-  PSpice
+-  EDA Playground 
+-  Cadence (Xcelium, Genus)  
+-  GitHub  
 
 ---
 
 ## 📂 Projects  
 
 - **APB Protocol Interfacing** → Verified APB protocol (1 master, 3 slaves) with SystemVerilog testbenches  
-- **AXI to APB Bridge** → Designed & verified bridge for AXI ↔ APB communication  
 - **Enhanced Electronic Voting Machine (EVM)** → FSM-based voting system with duplicate prevention & 7-segment display  
 - **Clean Energy Using Piezoelectric Sensors** → Sustainable energy harvesting prototype with web integration  
 
@@ -82,19 +76,12 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [Your LinkedIn](#)  
+- 📧 Email: nandinidevitekumudi@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291 
 - 🖥️ GitHub: [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
 
 ---
 
-✨ *“Curiosity drives innovation, persistence builds solutions.”* ✨
+✨ “Turning ideas into logic, and logic into reality.” ✨
