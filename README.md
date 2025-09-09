@@ -1,16 +1,20 @@
 # 👋 Hi, I'm Nandini  
 
-🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)  
-📊 CGPA: 9.1 / 10  
-💡 Passionate about **VLSI Design, Digital Systems, and Protocol Verification**  
+<p align="center">
+  🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)<br>
+  📊 CGPA: 9.1 / 10<br>
+  💡 Passionate about <b>VLSI Design, Digital Systems, and Protocol Verification</b>
+</p>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Exploring **VLSI design, SoC architecture, and verification methodologies**  
-- 🌱 Currently learning **SystemVerilog, AXI, APB, and PCIe protocols**  
-- 🛠️ Hands-on with **hardware description languages, digital circuits, and EDA tools**  
-- 🤝 Open to **internships, collaborations, and research opportunities**  
+<p align="center">
+  🔭 Exploring <b>VLSI design, SoC architecture, and verification methodologies</b><br>
+  🌱 Currently learning <b>SystemVerilog, AXI, APB, and PCIe protocols</b><br>
+  🛠️ Hands-on with <b>hardware description languages, digital circuits, and EDA tools</b><br>
+  🤝 Open to <b>internships, collaborations, and research opportunities</b>
+</p>
 
 ---
 
@@ -53,38 +57,34 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150"/>
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
+</p>
 
 ---
 
 ## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
-
-![Snake animation](https://raw.githubusercontent.com/GURUNANDINIDEVI/GURUNANDINIDEVI/output/github-contribution-grid-snake.svg)  
-
----
-
-## 📌 Pinned Projects  
-👉 Go to **your profile → Customize profile → Pin repositories**.  
-You can highlight your top **3–6 projects** (like APB Interface, AXI to APB Bridge, EVM, Clean Energy Project).  
-
----
-
-## 📈 Activity Graph (with Months)  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&date_format=%b%20%Y" alt="activity graph"/>
+  <img src="https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -97,4 +97,4 @@ You can highlight your top **3–6 projects** (like APB Interface, AXI to APB Br
 
 ---
 
-✨ *“Curiosity drives innovation, persistence builds solutions.”* ✨  
+✨ *“Curiosity drives innovation, persistence builds solutions.”* ✨
