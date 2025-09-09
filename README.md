@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Nandini  
 
 <p align="center">
-  🎓 3rd Year ECE Student | 📊 CGPA: 9.1 / 10<br>
+  🎓 3rd Year ECE Student 
+  📊 CGPA: 9.3 / 10<br>
   💡 Passionate about building a career in <b>VLSI and Digital System Design</b>
 </p>
 
