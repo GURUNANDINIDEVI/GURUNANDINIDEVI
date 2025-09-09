@@ -1,7 +1,6 @@
-<p align="center">
-#👋 Hi, I'm Nandini  
+#👋 Hi, I'm Nandini 
+<p align="center"> 
 
-<p align="center">
   🎓 B.Tech 3rd Year – Electronics & Communication Engineering (ECE)<br>
   📊 CGPA: 9.1 / 10<br>
   💡 Driven by curiosity to design efficient digital systems and explore next-gen VLSI solutions
