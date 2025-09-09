@@ -1,53 +1,43 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Nandini</h1>
-<h3 align="center">🎓 B.Tech 3rd Year | Electronics & Communication Engineering (ECE)</h3>
-<h4 align="center">💡 Passionate about VLSI Design | Digital Systems | Protocol Verification</h4>
+# 👋 Hi, I'm Nandini  
+
+🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)  
+📊 CGPA: 9.1 / 10  
+💡 Passionate about **VLSI Design, Digital Systems, and Protocol Verification**  
 
 ---
 
-<!-- Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="GURUNANDINIDEVI" /> 
-</p>
-
----
-
-## 🚀 About Me
+## 🚀 About Me  
 - 🔭 Exploring **VLSI design, SoC architecture, and verification methodologies**  
-- 🌱 Currently learning **SystemVerilog, AXI, APB, and PCIe-based verification flows**  
-- 🛠️ Hands-on with **hardware description languages, digital circuit design, and EDA tools**  
+- 🌱 Currently learning **SystemVerilog, AXI, APB, and PCIe protocols**  
+- 🛠️ Hands-on with **hardware description languages, digital circuits, and EDA tools**  
 - 🤝 Open to **internships, collaborations, and research opportunities**  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Programming Languages**  
+- C, Python,HTML 
 
-### ⚡ Hardware Description Languages  
-![Verilog](https://img.shields.io/badge/Verilog-FF5722?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0081CB?style=for-the-badge&logo=verilog&logoColor=white)
+**Hardware Description Languages**  
+- Verilog, SystemVerilog  
 
-### 🔗 Protocol Knowledge  
-`UART` • `SPI` • `I2C` • `APB` • `AXI` • *(Exploring PCIe)*  
+**Protocol Knowledge**  
+- UART, SPI, I2C, APB, AXI, *(Exploring PCIe)*  
 
-### 🧰 Tools & Platforms  
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Tools & Platforms**  
+- MATLAB, PSpice 
+- Xilinx Vivado  
+- Cadence (Xcelium, Genus)  
+- Git & GitHub  
 
 ---
 
 ## 📂 Projects  
 
-🔹 **APB Protocol Interfacing** – Designed & verified APB protocol (1 master, 3 slaves) using SystemVerilog testbenches.  
-🔹 **AXI to APB Bridge** – Developed communication bridge between AXI and APB with multiple transactions.  
-🔹 **Enhanced Electronic Voting Machine (EVM)** – FSM-based secure voting with vote limit, duplicate prevention & 7-segment display.  
-🔹 **Clean Energy Using Piezoelectric Sensors** – Prototype for sustainable energy harvesting with web monitoring.  
+- **APB Protocol Interfacing** → Verified APB protocol (1 master, 3 slaves) with SystemVerilog testbenches  
+- **Enhanced Electronic Voting Machine (EVM)** → FSM-based voting system with duplicate prevention & 7-segment display  
+- **Clean Energy Using Piezoelectric Sensors** → Sustainable energy harvesting prototype with web integration  
 
 ---
 
@@ -55,29 +45,55 @@
 - Cisco – C Programming Language  
 - IT Specialist – HTML & CSS  
 - Cadence – Semiconductor 101, Digital IC Design, Verilog, SystemVerilog  
-- IIT Bombay Spoken Tutorials – Python, C++  
+- IIT Bombay Spoken Tutorials – Python  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=default&hide_border=true" height="150"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=radical&hide_border=true)  
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=radical&hide_border=true)  
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-</div>
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 📌 Pinned Projects  
+👉 Go to **your profile → Customize profile → Pin repositories**.  
+You can highlight your top **3–6 projects** (like APB Interface, AXI to APB Bridge, EVM, Clean Energy Project).  
+
+---
+
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=github" alt="activity graph"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** [Your LinkedIn](#)  
-🖥️ **GitHub:** [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
+- 📧 Email: nandinidevitekumudi@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291  
+- 🖥️ GitHub: [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
 
 ---
 
