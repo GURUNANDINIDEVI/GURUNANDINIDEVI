@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Nandini  
 
 <p align="center">
-  🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)<br>
+  🎓 B.Tech 3rd Year – Electronics & Communication Engineering (ECE)<br>
   📊 CGPA: 9.1 / 10<br>
-  💡 Passionate about <b>VLSI Design, Digital Systems, and Protocol Verification</b><br>
-  🔭 Exploring <b>VLSI design, SoC architecture, and verification methodologies</b><br>
-  🌱 Currently learning <b>SystemVerilog, AXI, APB, and PCIe protocols</b><br>
-  🛠️ Hands-on with <b>HDLs, digital circuits, and EDA tools</b><br>
-  🤝 Open to <b>internships, collaborations, and research opportunities</b>
+  💡 Driven by curiosity to design efficient digital systems and explore next-gen VLSI solutions
 </p>
 
 ---
+
+## 🚀 About Me  
+  🔬 Interested in <b>chip design, verification methodologies, and SoC architecture</b><br>
+  🌱 Expanding my knowledge in <b>SystemVerilog and advanced bus protocols</b><br>
+  ⚡ Skilled at applying <b>digital design principles to real hardware challenges</b><br>
+  🤝 Excited to connect for <b>internships, collaborative projects, and research work</b>
+
 
 ## 🛠️ Skills  
 
