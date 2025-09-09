@@ -1,58 +1,53 @@
-# 👋 Hi, I'm Nandini  
-
-🎓 B.Tech 3rd Year Student – Electronics & Communication Engineering (ECE)  
-📊 CGPA: 9.1 / 10  
-💡 Passionate about **VLSI Design, Digital Systems, and Protocol Verification**  
-
----
-
-## 🚀 About Me  
-🔭 Exploring **VLSI design, SoC architecture, and verification methodologies**  
-🌱 Currently learning **SystemVerilog, AXI, and APB-based verification flows**  
-🛠️ Hands-on with **hardware description languages, digital circuit design, and EDA tools**  
-🤝 Open to **internships, collaborations, and research opportunities**  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Nandini</h1>
+<h3 align="center">🎓 B.Tech 3rd Year | Electronics & Communication Engineering (ECE)</h3>
+<h4 align="center">💡 Passionate about VLSI Design | Digital Systems | Protocol Verification</h4>
 
 ---
 
-## 🛠️ Skills  
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="GURUNANDINIDEVI" /> 
+</p>
 
-**💻 Programming Languages**  
-- C  
-- Python  
-- JavaScript  
+---
 
-**⚡ Hardware Description Languages**  
-- Verilog  
-- SystemVerilog  
+## 🚀 About Me
+- 🔭 Exploring **VLSI design, SoC architecture, and verification methodologies**  
+- 🌱 Currently learning **SystemVerilog, AXI, APB, and PCIe-based verification flows**  
+- 🛠️ Hands-on with **hardware description languages, digital circuit design, and EDA tools**  
+- 🤝 Open to **internships, collaborations, and research opportunities**  
 
-**🔗 Protocol Knowledge**  
-- UART | SPI | I2C | APB | AXI | *(Exploring PCIe)*  
+---
 
-**🧰 Tools & Platforms**  
-- MATLAB, PSpice, Proteus (circuit design)  
-- Xilinx Vivado  
-- Cadence Tools → Xcelium, Genus  
-- Git & GitHub  
+## 🛠️ Skills
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### ⚡ Hardware Description Languages  
+![Verilog](https://img.shields.io/badge/Verilog-FF5722?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0081CB?style=for-the-badge&logo=verilog&logoColor=white)
+
+### 🔗 Protocol Knowledge  
+`UART` • `SPI` • `I2C` • `APB` • `AXI` • *(Exploring PCIe)*  
+
+### 🧰 Tools & Platforms  
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📂 Projects  
 
-🔹 **APB Protocol Interfacing**  
-- Designed & verified **APB protocol** with 1 master and 3 slaves  
-- Verified slave states: **Hold, Setup, Active**  
-- Built **SystemVerilog testbenches**  
-
-🔹 **AXI to APB Bridge**  
-- Developed a **bridge design** for communication between AXI and APB protocols  
-- Verified functionality with **multiple transactions**  
-
-🔹 **Enhanced Electronic Voting Machine (EVM)**  
-- FSM-based secure voting system with **vote count limit, double voting prevention, 7-segment display, and error indicators**  
-
-🔹 **Clean Energy Using Piezoelectric Sensors**  
-- Built a prototype for **sustainable energy harvesting**  
-- Integrated with a **website for monitoring and reporting**  
+🔹 **APB Protocol Interfacing** – Designed & verified APB protocol (1 master, 3 slaves) using SystemVerilog testbenches.  
+🔹 **AXI to APB Bridge** – Developed communication bridge between AXI and APB with multiple transactions.  
+🔹 **Enhanced Electronic Voting Machine (EVM)** – FSM-based secure voting with vote limit, duplicate prevention & 7-segment display.  
+🔹 **Clean Energy Using Piezoelectric Sensors** – Prototype for sustainable energy harvesting with web monitoring.  
 
 ---
 
@@ -68,17 +63,18 @@
 
 <div align="center">
 
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=tokyonight&hide_border=true)  
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=radical&hide_border=true)  
 
-</div>  
+</div>
 
 ---
 
 ## 🌐 Connect with Me  
+
 📧 **Email:** your-email@example.com  
 💼 **LinkedIn:** [Your LinkedIn](#)  
 🖥️ **GitHub:** [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
