@@ -82,9 +82,9 @@ You can highlight your top **3–6 projects** (like APB Interface, AXI to APB Br
 
 ---
 
-## 📈 Activity Graph  
+## 📈 Activity Graph (with Months)  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&date_format=%b%20%Y" alt="activity graph"/>
 </p>
 
 ---
