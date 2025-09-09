@@ -17,16 +17,16 @@
 ## 🛠️ Skills  
 
 **Programming Languages**  
-- C, Python,HTML 
+- C, Python, JavaScript  
 
 **Hardware Description Languages**  
 - Verilog, SystemVerilog  
 
 **Protocol Knowledge**  
-- UART, SPI, I2C, APB, AXI, *(Exploring PCIe)*  
+- UART, SPI, I2C, APB, AXI *(Exploring PCIe)*  
 
 **Tools & Platforms**  
-- MATLAB, PSpice 
+- MATLAB, PSpice, Proteus  
 - Xilinx Vivado  
 - Cadence (Xcelium, Genus)  
 - Git & GitHub  
@@ -36,6 +36,7 @@
 ## 📂 Projects  
 
 - **APB Protocol Interfacing** → Verified APB protocol (1 master, 3 slaves) with SystemVerilog testbenches  
+- **AXI to APB Bridge** → Designed & verified bridge for AXI ↔ APB communication  
 - **Enhanced Electronic Voting Machine (EVM)** → FSM-based voting system with duplicate prevention & 7-segment display  
 - **Clean Energy Using Piezoelectric Sensors** → Sustainable energy harvesting prototype with web integration  
 
@@ -45,34 +46,33 @@
 - Cisco – C Programming Language  
 - IT Specialist – HTML & CSS  
 - Cadence – Semiconductor 101, Digital IC Design, Verilog, SystemVerilog  
-- IIT Bombay Spoken Tutorials – Python  
+- IIT Bombay Spoken Tutorials – Python, C++  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=default&hide_border=true" height="150"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150"/>
+</p>  
 
 ---
 
 ## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
+![Snake animation](https://raw.githubusercontent.com/GURUNANDINIDEVI/GURUNANDINIDEVI/output/github-contribution-grid-snake.svg)  
 
 ---
 
@@ -84,15 +84,15 @@ You can highlight your top **3–6 projects** (like APB Interface, AXI to APB Br
 
 ## 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=github" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 📧 Email: nandinidevitekumudi@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291  
+- 📧 Email: **your-email@example.com**  
+- 💼 LinkedIn: [Your LinkedIn](#)  
 - 🖥️ GitHub: [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
 
 ---
