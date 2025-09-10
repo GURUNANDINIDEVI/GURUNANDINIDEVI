@@ -1,92 +1,45 @@
-# 👋 Hi, I'm Nandini  
+<p align="center">👋 Hi, I’m Nandini</p>
+<p align="center"> 🎓 3rd Year Electronics & Communication Engineering (ECE) Student <br> 📊 CGPA: 9.3 / 10 <br> 💡 Focused on <b>VLSI Design, Digital Systems, and Verification</b> </p>
+💡 Professional Summary
 
-<p align="center">
-  🎓 3rd Year ECE Student 
-  📊 CGPA: 9.3 / 10<br>
-  💡 Passionate about building a career in <b>VLSI and Digital System Design</b>
-</p>
+I am an aspiring VLSI and Digital System Design Engineer with a strong academic foundation and hands-on experience in HDL coding, digital circuits, and protocol-based verification.
+I actively explore EDA tools, SoC design methodologies, and verification strategies, applying them through technical projects and self-learning initiatives.
 
----
+I am seeking opportunities in internships, collaborative research, and industry projects to contribute my skills and gain practical exposure.
 
-## 🚀 About Me  
+🛠️ Core Competencies
 
-  📚 Constantly learning <b>protocols and design flows</b> to strengthen my VLSI foundation<br>
-  🔭 Exploring <b>System-on-Chip design, HDL coding, and verification strategies</b><br>
-  🛠️ Experienced in <b>EDA tools, digital circuits, and simulation platforms</b><br>
-  🌍 Open to <b>global opportunities in research, internships, and projects</b>
-Excited to connect for <b>internships, collaborative projects, and research work</b>
+Programming Languages: C, Python
 
+Hardware Description Languages: Verilog, SystemVerilog
 
-## 🛠️ Skills  
+Protocols: APB, UART, I2C, SPI, AXI (Exploring PCIe)
 
-**Programming Languages**  
-- C, Python 
+Tools & Platforms: MATLAB, PSpice, Cadence (Xcelium, Genus), EDA Playground, GitHub
 
-**Hardware Description Languages**  
-- Verilog, SystemVerilog  
+📂 Key Projects
 
-**Protocol Knowledge**  
-- APB, UART, I2C, SPI, APB, AXI *(Exploring PCIe)*  
+APB Protocol Interfacing
+Developed an APB bus interface supporting one master and multiple slaves. Verified the design with SystemVerilog testbenches to ensure accurate communication, data transfer integrity, and protocol compliance.
 
-**Tools & Platforms**  
--  MATLAB
--  PSpice
--  EDA Playground 
--  Cadence (Xcelium, Genus)  
--  GitHub  
+Enhanced Electronic Voting Machine (EVM)
+FSM-based voting system with duplicate vote prevention, status/error handling, and 7-segment display output.
 
----
+Clean Energy Using Piezoelectric Sensors
+Built a sustainable energy harvesting prototype integrated with a real-time web monitoring system.
 
-## 📂 Projects  
+📜 Certifications
+<table> <tr> <td>🎓 Cisco</td> <td>C Programming Language</td> </tr> <tr> <td>🌐 IT Specialist</td> <td>HTML & CSS</td> </tr> <tr> <td>💡 Cadence</td> <td>Semiconductor 101, Digital IC Design, Verilog, SystemVerilog</td> </tr> <tr> <td>📚 IIT Bombay Spoken Tutorials</td> <td>Python, C++</td> </tr> </table>
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=default&hide_border=true" height="150"/> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p>
+🌐 Connect with Me
 
-- **APB Protocol Interfacing** → Verified APB protocol (1 master, 3 slaves) with SystemVerilog testbenches  
-- **Enhanced Electronic Voting Machine (EVM)** → FSM-based voting system with duplicate prevention & 7-segment display  
-- **Clean Energy Using Piezoelectric Sensors** → Sustainable energy harvesting prototype with web integration  
+📧 Email: nandinidevitekumudi@gmail.com
 
----
+💼 LinkedIn: Nandini Tekumudi
 
-## 📜 Certifications  
-- Cisco – C Programming Language  
-- IT Specialist – HTML & CSS  
-- Cadence – Semiconductor 101, Digital IC Design, Verilog, SystemVerilog  
-- IIT Bombay Spoken Tutorials – Python, C++  
+🖥️ GitHub: GURUNANDINIDEVI
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUNANDINIDEVI&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="150"/>
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-- 📧 Email: nandinidevitekumudi@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291 
-- 🖥️ GitHub: [GURUNANDINIDEVI](https://github.com/GURUNANDINIDEVI)  
-
----
-
-✨ “Turning ideas into logic, and logic into reality.” ✨
+✨ “Designing efficient digital systems and turning logic into innovation.” ✨
