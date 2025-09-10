@@ -30,11 +30,7 @@ Clean Energy Using Piezoelectric Sensors
 Built a sustainable energy harvesting prototype integrated with a real-time web monitoring system.
 
 ## 📜 Certifications
-📌 Certification Body	📖 Course / Area
-🎓 Cisco	C Programming Language
-🌐 IT Specialist	HTML & CSS
-💡 Cadence	Semiconductor 101, Digital IC Design, Verilog, SystemVerilog
-📚 IIT Bombay Spoken Tutorials	Python, C++
+<table> <tr> <td>🎓 Cisco</td> <td>C Programming Language</td> </tr> <tr> <td>🌐 IT Specialist</td> <td>HTML & CSS</td> </tr> <tr> <td>💡 Cadence</td> <td>Semiconductor 101, Digital IC Design, Verilog, SystemVerilog</td> </tr> <tr> <td>📚 IIT Bombay Spoken Tutorials</td> <td>Python, C++</td> </tr> </table>
 
 ## 📈 Contribution Graph 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/> </p>
