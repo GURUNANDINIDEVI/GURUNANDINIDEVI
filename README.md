@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I’m Nandini</p>
+# 👋 Hi, I’m Nandini
 <p align="center"> 🎓 3rd Year Electronics & Communication Engineering (ECE) Student <br> 📊 CGPA: 9.3 / 10 <br> 💡 Focused on <b>VLSI Design, Digital Systems, and Verification</b> </p>
 💡 Professional Summary
 
@@ -7,7 +7,7 @@ I actively explore EDA tools, SoC design methodologies, and verification strateg
 
 I am seeking opportunities in internships, collaborative research, and industry projects to contribute my skills and gain practical exposure.
 
-🛠️ Core Competencies
+## 🛠️ Core Competencies
 
 Programming Languages: C, Python
 
@@ -17,10 +17,10 @@ Protocols: APB, UART, I2C, SPI, AXI (Exploring PCIe)
 
 Tools & Platforms: MATLAB, PSpice, Cadence (Xcelium, Genus), EDA Playground, GitHub
 
-📂 Key Projects
+## 📂 Key Projects
 
 APB Protocol Interfacing
-Developed an APB bus interface supporting one master and multiple slaves. Verified the design with SystemVerilog testbenches to ensure accurate communication, data transfer integrity, and protocol compliance.
+Developed an APB bus interface supporting one master and multiple slaves. Verified the design with SystemVerilog testbenches to ensure accurate communication, reliable data transfer, and protocol compliance.
 
 Enhanced Electronic Voting Machine (EVM)
 FSM-based voting system with duplicate vote prevention, status/error handling, and 7-segment display output.
@@ -28,18 +28,26 @@ FSM-based voting system with duplicate vote prevention, status/error handling, a
 Clean Energy Using Piezoelectric Sensors
 Built a sustainable energy harvesting prototype integrated with a real-time web monitoring system.
 
-📜 Certifications
-<table> <tr> <td>🎓 Cisco</td> <td>C Programming Language</td> </tr> <tr> <td>🌐 IT Specialist</td> <td>HTML & CSS</td> </tr> <tr> <td>💡 Cadence</td> <td>Semiconductor 101, Digital IC Design, Verilog, SystemVerilog</td> </tr> <tr> <td>📚 IIT Bombay Spoken Tutorials</td> <td>Python, C++</td> </tr> </table>
-📊 GitHub Insights
+## 📜 Certifications
+📌 Certification Body	📖 Course / Area
+🎓 Cisco	C Programming Language
+🌐 IT Specialist	HTML & CSS
+💡 Cadence	Semiconductor 101, Digital IC Design, Verilog, SystemVerilog
+📚 IIT Bombay Spoken Tutorials	Python, C++
+
+## 📊 GitHub Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=default&hide_border=true" height="150"/> </p>
-👀 Profile Views
+
+## 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p>
-🌐 Connect with Me
+
+## 🌐 Connect with Me
 
 📧 Email: nandinidevitekumudi@gmail.com
 
 💼 LinkedIn: Nandini Tekumudi
 
 🖥️ GitHub: GURUNANDINIDEVI
+
 
 ✨ “Designing efficient digital systems and turning logic into innovation.” ✨
