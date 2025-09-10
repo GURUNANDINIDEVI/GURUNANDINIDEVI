@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Nandini
 <p align="center"> 🎓 3rd Year Electronics & Communication Engineering (ECE) Student <br> 📊 CGPA: 9.3 / 10 <br> 💡 Focused on <b>VLSI Design, Digital Systems, and Verification</b> </p>
-💡 Professional Summary
+
+## 💡 Professional Summary
 
 I am an aspiring VLSI and Digital System Design Engineer with a strong academic foundation and hands-on experience in HDL coding, digital circuits, and protocol-based verification.
 I actively explore EDA tools, SoC design methodologies, and verification strategies, applying them through technical projects and self-learning initiatives.
@@ -35,8 +36,8 @@ Built a sustainable energy harvesting prototype integrated with a real-time web 
 💡 Cadence	Semiconductor 101, Digital IC Design, Verilog, SystemVerilog
 📚 IIT Bombay Spoken Tutorials	Python, C++
 
-## 📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GURUNANDINIDEVI&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUNANDINIDEVI&layout=compact&theme=default&hide_border=true" height="150"/> </p>
+## 📈 Contribution Graph 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/> </p>
 
 ## 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p>
@@ -45,9 +46,9 @@ Built a sustainable energy harvesting prototype integrated with a real-time web 
 
 📧 Email: nandinidevitekumudi@gmail.com
 
-💼 LinkedIn: Nandini Tekumudi
+💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291
 
-🖥️ GitHub: GURUNANDINIDEVI
+🖥️ GitHub: https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI
 
 
 ✨ “Designing efficient digital systems and turning logic into innovation.” ✨
