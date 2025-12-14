@@ -1,50 +1,109 @@
-# 👋 Hi, I’m Nandini
-<p align="center"> 🎓 3rd Year Electronics & Communication Engineering (ECE) Student <br> 📊 CGPA: 9.3 / 10 <br> 💡 Focused on <b>VLSI Design, Digital Systems, and Verification</b> </p>
+👋 Hi, I’m Nandini
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=VLSI+Design+Verification+Enthusiast;SystemVerilog+%7C+RTL+Verification;APB+%7C+AXI+%7C+Protocol+Based+DV;Aspiring+DV+Engineer" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Role-Design%20Verification%20Engineer-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Domain-VLSI-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Language-SystemVerilog-orange?style=for-the-badge"/> </p>
+🧠 About Me
 
-## 💡 Professional Summary
+🎓 ECE Student | Aspiring VLSI Design Verification Engineer
 
-I am an aspiring VLSI and Digital System Design Engineer with a strong academic foundation and hands-on experience in HDL coding, digital circuits, and protocol-based verification.
-I actively explore EDA tools, SoC design methodologies, and verification strategies, applying them through technical projects and self-learning initiatives.
+I am deeply interested in RTL design and functional verification, with hands-on experience in SystemVerilog-based testbenches, FSM-based designs, and protocol-level verification.
 
-I am seeking opportunities in internships, collaborative research, and industry projects to contribute my skills and gain practical exposure.
+I enjoy validating designs using directed and self-checking tests, debugging through waveforms, and understanding real-world DV workflows.
 
-## 🛠️ Core Competencies
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github&theme=dark" /> </p>
+🔹 Hardware & Verification
 
-Programming Languages: C, Python
+Verilog HDL
 
-Hardware Description Languages: Verilog, SystemVerilog
+SystemVerilog
 
-Protocols: APB, UART, I2C, SPI, AXI (Exploring PCIe)
+RTL Design & Verification
 
-Tools & Platforms: MATLAB, PSpice, Cadence (Xcelium, Genus), EDA Playground, GitHub
+🔹 Protocols
 
-## 📂 Key Projects
+APB
 
-APB Protocol Interfacing
-Developed an APB bus interface supporting one master and multiple slaves. Verified the design with SystemVerilog testbenches to ensure accurate communication, reliable data transfer, and protocol compliance.
+UART
 
-Enhanced Electronic Voting Machine (EVM)
-FSM-based voting system with duplicate vote prevention, status/error handling, and 7-segment display output.
+I2C
 
-Clean Energy Using Piezoelectric Sensors
-Built a sustainable energy harvesting prototype integrated with a real-time web monitoring system.
+SPI
 
-## 📜 Certifications
-<table> <tr> <td>🎓 Cisco</td> <td>C Programming Language</td> </tr> <tr> <td>🌐 IT Specialist</td> <td>HTML & CSS</td> </tr> <tr> <td>💡 Cadence</td> <td>Semiconductor 101, Digital IC Design, Verilog, SystemVerilog</td> </tr> <tr> <td>📚 IIT Bombay Spoken Tutorials</td> <td>Python, C++</td> </tr> </table>
+AXI (Learning)
 
-## 📈 Contribution Graph 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUNANDINIDEVI&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/> </p>
+🔹 Tools
 
-## 👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GURUNANDINIDEVI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p>
+EDA Playground
 
-## 🌐 Connect with Me
+Cadence (Xcelium, Genus – exposure)
 
-📧 Email: nandinidevitekumudi@gmail.com
+ModelSim / Questa (academic)
 
-💼 LinkedIn: www.linkedin.com/in/nandini-tekumudi-347170291
-
-🖥️ GitHub: https://github.com/GURUNANDINIDEVI/GURUNANDINIDEVI
+📐 Verification Flow I Follow
+SPEC → DUT → Testbench → Testcases → Simulation
+        ↓
+     Debug → Fix → Re-Verify
 
 
-✨ “Designing efficient digital systems and turning logic into innovation.” ✨
+✔ Directed Testing
+✔ Corner Case Validation
+✔ Protocol Compliance
+✔ Waveform Debugging
+
+📂 Featured Projects
+🔹 APB Protocol – RTL & Verification
+
+APB slave interface design
+
+Read / Write transaction verification
+
+Reset & error handling
+
+Self-checking testbench
+
+⚙️ Concepts: FSM, SystemVerilog, Protocol DV
+
+🔹 Electronic Voting Machine (EVM)
+
+FSM-based control logic
+
+Double voting prevention
+
+Vote count limit
+
+7-segment display
+
+⚙️ Concepts: FSM, RTL, Verification
+
+🔹 Bus Entry Monitoring System (SystemVerilog)
+
+Student ID validation
+
+Duplicate detection
+
+Real-time arrival time simulation
+
+Randomized testcases
+
+⚙️ Concepts: SystemVerilog, Simulation Time, Verification
+
+🔹 APB to I2C Bridge (Ongoing)
+
+Protocol translation
+
+ACK/NACK verification
+
+Timeout handling
+
+Waveform analysis
+
+📈 Currently Learning
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&center=true&vCenter=true&width=500&lines=UVM+Fundamentals;Assertions+(SVA);Functional+Coverage;AXI+Protocol+Verification" /> </p>
+🎯 Career Objective
+
+To secure a Design Verification Internship / Entry-Level DV Role, where I can contribute to high-quality silicon verification and grow with industry-standard methodologies.
+
+🤝 Connect With Me
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/></a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/> </p>
+⭐ “Verification ensures not just correctness, but confidence.”
