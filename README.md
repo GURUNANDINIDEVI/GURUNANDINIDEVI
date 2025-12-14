@@ -1,23 +1,64 @@
-👋 Hi, I’m Nandini
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=VLSI+Design+Verification+Enthusiast;SystemVerilog+%7C+RTL+Verification;APB+%7C+AXI+%7C+Protocol+Based+DV;Aspiring+DV+Engineer" /> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Role-Design%20Verification%20Engineer-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Domain-VLSI-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Language-SystemVerilog-orange?style=for-the-badge"/> </p>
-🧠 About Me
+<p align="center">
+  <img src="./assets/vlsi-chip-animated.png" width="260"/>
+</p>
 
-🎓 ECE Student | Aspiring VLSI Design Verification Engineer
+<h1 align="center">⚡ Nandini | VLSI Design Verification Engineer ⚡</h1>
 
-I am deeply interested in RTL design and functional verification, with hands-on experience in SystemVerilog-based testbenches, FSM-based designs, and protocol-level verification.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=VLSI+Design+Verification+Engineer;RTL+Verification+%7C+SystemVerilog;Protocol-Based+Verification+%7C+APB+AXI+I2C;Designing+Confidence+in+Silicon" />
+</p>
 
-I enjoy validating designs using directed and self-checking tests, debugging through waveforms, and understanding real-world DV workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-VLSI-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Design%20Verification-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-SystemVerilog-orange?style=for-the-badge"/>
+</p>
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github&theme=dark" /> </p>
-🔹 Hardware & Verification
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656962-9f9cb32a-b19e-4b3e-bd5b-b40b92f30b5e.gif" width="450"/>
+</p>
+
+## 🧠 About Me  
+
+🎓 **ECE Student | Aspiring VLSI Design Verification Engineer**  
+
+I am passionate about **functional verification of digital designs**, with hands-on experience in **SystemVerilog-based RTL verification**, FSM-driven designs, and **protocol-level validation**.
+
+I enjoy **breaking designs through testcases**, debugging with **waveforms**, and ensuring that **design intent is faithfully implemented in silicon**.
+
+---
+
+## 🧬 Verification Mindset  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=600&color=F7E733&center=true&vCenter=true&width=800&lines=SPEC+→+RTL+(DUT);TESTBENCH+→+TESTCASES;SIMULATION+→+WAVEFORMS;DEBUG+→+FIX+→+REVERIFY;CONFIDENCE+IN+SILICON" />
+</p>
+
+```text
+SPEC
+ ↓
+RTL (DUT)
+ ↓
+SystemVerilog Testbench
+ ↓
+Testcases + Assertions
+ ↓
+Simulation
+ ↓
+Waveform Debug
+ ↓
+Bug-Free Silicon ✔
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github&theme=dark"/> </p>
+🔹 Languages & Verification
 
 Verilog HDL
 
 SystemVerilog
 
-RTL Design & Verification
+RTL Design & Functional Verification
 
 🔹 Protocols
 
@@ -29,81 +70,84 @@ I2C
 
 SPI
 
-AXI (Learning)
+AXI (learning)
 
 🔹 Tools
 
 EDA Playground
 
-Cadence (Xcelium, Genus – exposure)
+Cadence Xcelium / Genus (exposure)
 
 ModelSim / Questa (academic)
 
-📐 Verification Flow I Follow
-SPEC → DUT → Testbench → Testcases → Simulation
-        ↓
-     Debug → Fix → Re-Verify
+MATLAB
 
-
-✔ Directed Testing
-✔ Corner Case Validation
-✔ Protocol Compliance
-✔ Waveform Debugging
-
-📂 Featured Projects
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284126-8e8b0b77-bc4c-4f92-9e3b-55e6b0fdf36c.gif" width="450"/> </p>
+🧪 Featured Verification Projects
 🔹 APB Protocol – RTL & Verification
 
-APB slave interface design
+APB-compliant slave interface
 
-Read / Write transaction verification
+Read & write transaction verification
 
-Reset & error handling
+Reset, error handling, wait-state testing
 
-Self-checking testbench
+Self-checking SystemVerilog testbench
 
-⚙️ Concepts: FSM, SystemVerilog, Protocol DV
+Keywords: APB, FSM, Protocol DV, SystemVerilog
 
 🔹 Electronic Voting Machine (EVM)
 
-FSM-based control logic
+FSM-based voting logic
 
-Double voting prevention
+Double-voting prevention
 
-Vote count limit
+Vote count limit handling
 
-7-segment display
+7-segment display integration
 
-⚙️ Concepts: FSM, RTL, Verification
+Full functional verification
+
+Keywords: FSM, RTL, Verification
 
 🔹 Bus Entry Monitoring System (SystemVerilog)
 
-Student ID validation
+Student ID validation logic
 
-Duplicate detection
+Duplicate entry detection
 
-Real-time arrival time simulation
+Real-time arrival time (HH:MM:SS) simulation
 
-Randomized testcases
+Randomized test scenarios
 
-⚙️ Concepts: SystemVerilog, Simulation Time, Verification
+Keywords: SystemVerilog, Verification Logic, Simulation Time
 
-🔹 APB to I2C Bridge (Ongoing)
+🔹 APB → I2C Bridge (Ongoing)
 
-Protocol translation
+Protocol translation logic
 
-ACK/NACK verification
+Read / Write verification
 
-Timeout handling
+ACK / NACK handling
 
-Waveform analysis
+Timeout and error scenarios
 
-📈 Currently Learning
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&center=true&vCenter=true&width=500&lines=UVM+Fundamentals;Assertions+(SVA);Functional+Coverage;AXI+Protocol+Verification" /> </p>
+Waveform-based debugging
+
+🚀 Currently Learning & Upgrading
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=700&color=00ff99&center=true&vCenter=true&width=900&lines=UVM+Fundamentals;Functional+Coverage;SystemVerilog+Assertions+(SVA);AXI+Protocol+Verification;Industry-Level+DV+Flow" /> </p>
 🎯 Career Objective
 
-To secure a Design Verification Internship / Entry-Level DV Role, where I can contribute to high-quality silicon verification and grow with industry-standard methodologies.
+To secure a Design Verification Internship / Entry-Level DV Role, where I can:
 
-🤝 Connect With Me
-<p align="center"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/></a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/> </p>
-⭐ “Verification ensures not just correctness, but confidence.”
+Apply strong verification fundamentals
+
+Work on industry-scale protocols
+
+Contribute to robust, bug-free silicon
+
+Grow into UVM-based DV methodologies
+
+🤝 Let’s Connect
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail"/></a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=120&section=footer&text=Verification%20is%20Confidence&fontColor=ffffff&fontSize=26"/> </p> ```
