@@ -50,7 +50,8 @@ Simulation
 Waveform Debug
  ↓
 Bug-Free Silicon ✔
-⚙️ Tech Stack
+ ```
+## Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github&theme=dark"/> </p>
 🔹 Languages & Verification
 Verilog HDL
