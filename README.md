@@ -171,11 +171,15 @@ Improved debugging efficiency through structured logging and waveform analysis
 
 ## 🏆 Certifications & Learning
 
-- VLSI Internship – **Technical Hub**
-- RTL & Digital Logic Hands-On Practice
-- Ongoing self-learning in **Design Verification**
+VLSI Internship – **Technical Hub**
+  
+-Semiconductor 101 -> Cadence
 
-*(Certification badges can be added when available)*
+-Digital IC Design -> Cadence
+
+-Behavioral Modeling with Verilog -> Cadence
+
+-SystemVerilog for Design and Verification -> Cadence
 
 ---
 
