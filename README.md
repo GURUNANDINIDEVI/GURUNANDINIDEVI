@@ -47,15 +47,6 @@ My goal is to contribute to **robust silicon validation** in the semiconductor i
 
 ---
 
-## 🔭 Currently Working On
-
-- 🚀 100 Days of **RTL & Verilog Coding**
-- 🧪 Verification-oriented **testbench development**
-- 📐 Strengthening **STLD & Digital Logic**
-- ⚙️ Tool exposure: EDA Playground, Vivado, ModelSim
-
----
-
 ## 🛠️ Languages, Skills & Tools
 
 ### 🔧 Hardware Description Languages
@@ -101,14 +92,6 @@ My goal is to contribute to **robust silicon validation** in the semiconductor i
 ---
 
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 📂 Repositories I’m Working On
 
 | Repository | Description |
@@ -116,6 +99,8 @@ My goal is to contribute to **robust silicon validation** in the semiconductor i
 | **verilog-100days** | 100-day structured RTL coding challenge |
 | **HDL-Bits-Codes** | HDL practice problems & solutions |
 | **RTL-Practice on EDA** | Combinational & sequential RTL blocks,Simulation-ready Verilog designs |
+| **EW-Skills** | Verilog, SystemVerilog & Digital Design practice problems with solutions |
+| **AIoT-Embedded-Systems** | Arduino, IoT, embedded systems & sensor-based projects with documentation |
 
 ---
 
@@ -167,19 +152,34 @@ Simplified verification by separating DUT and testbench logic
 
 Improved debugging efficiency through structured logging and waveform analysis
 
+## 🔹 Adaptive AXI–APB Hybrid Interface
+
+Adaptive AXI/APB protocol selection
+
+Traffic-aware memory transaction routing
+
+FSM-based arbitration and protocol switching
+
+Randomized read/write verification
+
+Self-checking SystemVerilog testbench
+
+Protocol compliance and performance analysis
+
+Keywords: AXI, APB, AMBA, RTL, SystemVerilog, Design Verification
+
 ---
 
 ## 🏆 Certifications & Learning
 
-VLSI Internship – **Technical Hub**
-  
--Semiconductor 101 -> Cadence
+**VLSI Internship – Technical Hub**
 
--Digital IC Design -> Cadence
-
--Behavioral Modeling with Verilog -> Cadence
-
--SystemVerilog for Design and Verification -> Cadence
+- 📜 [Semiconductor 101 – Cadence](certificates/Semiconductor101.pdf)
+- 📜 [Digital IC Design – Cadence](certificates/DigitalICDesign.pdf)
+- 📜 [Behavioral Modeling with Verilog – Cadence](certificates/BehavioralModelingWithVerilog.pdf)
+- 📜 [SystemVerilog for Design & Verification – Cadence](certificates/SystemVerilogDesignVerification.pdf)
+- 📜 [Verilog Language & Applications – Cadence](certificates/VerilogLanguageApplications.pdf)
+- 📜 [Frontend Digital Design and Verification Language and Methodology Domain Certificate](certificates/VerilogLanguageApplications.pdf)
 
 ---
 
