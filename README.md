@@ -174,12 +174,12 @@ Keywords: AXI, APB, AMBA, RTL, SystemVerilog, Design Verification
 
 **VLSI Internship – Technical Hub**
 
-- 📜 [Semiconductor 101 – Cadence]([certificates/Semiconductor101.pdf](https://drive.google.com/file/d/1DTLJQwau2B48oKJD-i182G_99CICrnbw/view?usp=sharing))
-- 📜 [Digital IC Design – Cadence]([certificates/DigitalICDesign.pdf](https://drive.google.com/file/d/1LXXKnsB81CcxtTX5nNzRoPquHc6hv-jC/view?usp=sharing))
-- 📜 [Behavioral Modeling with Verilog – Cadence]([certificates/BehavioralModelingWithVerilog.pdf](https://drive.google.com/file/d/1y_MIFiaEbraV6W7eEKDvhbHPfRhS9rLt/view?usp=sharing))
-- 📜 [SystemVerilog for Design & Verification – Cadence]([certificates/SystemVerilogDesignVerification.pdf](https://drive.google.com/file/d/1fh8kkOhJWST6LfgQw4G0I3XiKqa2QVSe/view?usp=sharing))
-- 📜 [Verilog Language & Applications – Cadence]([certificates/VerilogLanguageApplications.pdf](https://drive.google.com/file/d/1zLHu81nxopAN_bAuFm6UKVwHyVKkxqn4/view?usp=sharing))
-- 📜 [Frontend Digital Design and Verification Language and Methodology Domain Certificate]([certificates/VerilogLanguageApplications.pdf](https://drive.google.com/file/d/1CMlSiEIYW-JKaD1ga7KWSykdFGXFEx8P/view?usp=sharing))
+- 📜 [Semiconductor 101 – Cadence](https://drive.google.com/file/d/1DTLJQwau2B48oKJD-i182G_99CICrnbw/view?usp=sharing))
+- 📜 [Digital IC Design – Cadence](https://drive.google.com/file/d/1LXXKnsB81CcxtTX5nNzRoPquHc6hv-jC/view?usp=sharing))
+- 📜 [Behavioral Modeling with Verilog – Cadence](https://drive.google.com/file/d/1y_MIFiaEbraV6W7eEKDvhbHPfRhS9rLt/view?usp=sharing))
+- 📜 [SystemVerilog for Design & Verification – Cadence](https://drive.google.com/file/d/1fh8kkOhJWST6LfgQw4G0I3XiKqa2QVSe/view?usp=sharing))
+- 📜 [Verilog Language & Applications – Cadence](https://drive.google.com/file/d/1zLHu81nxopAN_bAuFm6UKVwHyVKkxqn4/view?usp=sharing))
+- 📜 [Frontend Digital Design and Verification Language and Methodology Domain Certificate](https://drive.google.com/file/d/1CMlSiEIYW-JKaD1ga7KWSykdFGXFEx8P/view?usp=sharing))
 
 ---
 
